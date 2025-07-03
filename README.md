@@ -77,5 +77,5 @@ The Provident Fund is calculated using the following salary slabs:
 ## 📧 Contact
 
 Made with ❤️ by [Annwesha Naha]  
-📧 Email: your.email@example.com  
+📧 Email: annweshanaha2005@gmail.com
 🔗 GitHub: [Annwesha10](https://github.com/Annwesha10)
