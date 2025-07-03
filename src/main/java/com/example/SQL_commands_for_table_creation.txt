@@ -1,0 +1,20 @@
+For Department table:-
+CREATE TABLE Department (
+    departmentId NUMBER PRIMARY KEY,
+    departmentName VARCHAR2(30),
+    departmentHead VARCHAR2(30),
+    departmentDescription VARCHAR2(30)
+);
+
+For Employee table:-
+CREATE TABLE Employee (
+    employeeId NUMBER PRIMARY KEY,
+    employeeName VARCHAR2(50),
+    employeeSalary NUMBER(8,2),
+    employeeAddress VARCHAR2(50),
+    employeeContactNo NUMBER,
+    departmentId NUMBER,
+    CONSTRAINT fk_department
+        FOREIGN KEY (departmentId)
+        REFERENCES Department(departmentId)
+);
