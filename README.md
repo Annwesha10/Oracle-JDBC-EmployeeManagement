@@ -63,9 +63,13 @@ The Provident Fund is calculated using the following salary slabs:
 ---
 
 ## 📸 Screenshots
+---
 ![image alt](https://github.com/Annwesha10/Oracle-JDBC-EmployeeManagement/blob/f7145993dfbecf5f210e57a44c15e09968d56b33/Screenshot%202025-07-03%20170813.png)
+---
 ![image alt](https://github.com/Annwesha10/Oracle-JDBC-EmployeeManagement/blob/f7145993dfbecf5f210e57a44c15e09968d56b33/Screenshot%202025-07-03%20171125.png)
+---
 ![image alt](https://github.com/Annwesha10/Oracle-JDBC-EmployeeManagement/blob/f7145993dfbecf5f210e57a44c15e09968d56b33/Screenshot%202025-07-03%20171146.png)
+---
 ![image alt](https://github.com/Annwesha10/Oracle-JDBC-EmployeeManagement/blob/f7145993dfbecf5f210e57a44c15e09968d56b33/Screenshot%202025-07-03%20172001.png)
 
 ---
